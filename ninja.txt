@@ -1,1 +1,1 @@
-Seersy:tcp.ap.ngrok.io:19050:0:0
+Seersy:tcp.ap.ngrok.io:15033:0:0
