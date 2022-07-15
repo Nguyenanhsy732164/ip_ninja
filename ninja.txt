@@ -1,2 +1,2 @@
-Seersy:tcp.ap.ngrok.io:14328:0:0
 sy:tcp.ap.ngrok.io:17779:0:0
+
