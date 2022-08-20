@@ -1,1 +1,1 @@
-Seversy:tcp.ap.ngrok.io:18768:0:0
+Seversy:tcp.ap.ngrok.io:10528:0:0
