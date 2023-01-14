@@ -1,1 +1,1 @@
-Severkyniem:0.tcp.jp.ngrok.io:18570:0:0
+Kyniem:0.tcp.ap.ngrok.io:14050:0:0
